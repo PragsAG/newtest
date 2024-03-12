@@ -4,3 +4,7 @@ Hi
 
 2nd changes
 2nd commit
+
+3rd changes
+3rd commit
+user changed name new
